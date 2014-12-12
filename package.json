@@ -21,8 +21,5 @@
     "shelljs": "~0.2.0",
     "grunt-ddescribe-iit": "0.0.4"
   },
-  "scripts": {
-    "install": "npm install && grunt build"
-  },
   "license": "MIT"
 }
