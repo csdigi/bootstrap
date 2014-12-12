@@ -22,7 +22,7 @@
     "grunt-ddescribe-iit": "0.0.4"
   },
   "scripts": {
-    "postInstall": "grunt build"
+    "install": "npm install && grunt build"
   },
   "license": "MIT"
 }
